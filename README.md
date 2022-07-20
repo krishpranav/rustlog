@@ -6,7 +6,7 @@
 - Cargo.toml
 ```toml
 rustlog = { git = "https://github.com/krishpranav/rustlog" }
-log = "0.4"
+log = "0.4.17"
 ```
 
 ## Usage:
