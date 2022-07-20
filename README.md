@@ -71,4 +71,4 @@ fn main() {
 ```
 
 ## License:
-- rustlog is licensed under [GPL-2.0 License]()
+- rustlog is licensed under [GPL-2.0 License](https://github.com/krishpranav/rustlog/blob/master/LICENSE)
